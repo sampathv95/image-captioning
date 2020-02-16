@@ -15,8 +15,8 @@ order of execution of notebooks:
 ### Dataset Description ###
 For this project, we use the famous FLickr 8k dataset. This dataset contains 8000 images (hence the name 8k) and each image has 5 captions telling us what is happening in the image. These 8000 images are split as follows:
 
-1.6000 Training images and their descriptions.
+a)6000 Training images and their descriptions.
 
-2.1000 Development/Validation images and their descriptions.
+b)1000 Development/Validation images and their descriptions.
 
-3.1000 Test images and their descriptions
+c)1000 Test images and their descriptions
