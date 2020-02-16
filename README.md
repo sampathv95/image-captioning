@@ -5,7 +5,7 @@ The Flicker8k dataset used for this project can be downloaded from the tow links
 link for images : https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
 link for captions: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
 
-the zip files downloaded must be etracted and placed in the same directory where your notebooks are present (source directory)
+the zip files downloaded must be extracted and placed in the same directory where your notebooks are present (source directory)
 
 order of execution of notebooks:
 1. data_exploration.ipynb
