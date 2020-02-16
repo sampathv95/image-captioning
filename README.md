@@ -6,3 +6,8 @@ link for images : https://github.com/jbrownlee/Datasets/releases/download/Flickr
 link for captions: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
 
 the zip files downloaded must be etracted and placed in the same directory where your notebooks are present (source directory)
+
+order of execution of notebooks:
+1. data_exploration.ipynb
+2. glove_embeddings.ipynb
+3. caption_generator.ipynb
