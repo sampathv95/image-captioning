@@ -84,3 +84,6 @@ class Helpers():
                 else:
                     train_3d[i][j] = np.zeros(shape=(100))
         return train_3d
+
+if __name__ == '__main__':
+    print('done')
