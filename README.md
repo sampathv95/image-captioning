@@ -1,5 +1,5 @@
 # Image caption generator
-This is a neural network model trained on Flickr8k dataset to automatically give suitable caption to an image.
+This is a neural network model trained on Flickr8k dataset to automatically give suitable caption to an image. Check my medium story (https://medium.com/swlh/image-captioning-using-multimodal-neural-networks-ec274cfceb93) for elaborate explanations.
 
 The Flicker8k dataset used for this project can be downloaded from the tow links below
 
