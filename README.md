@@ -1,11 +1,13 @@
 # Image caption generator
-This is a neural network model trained on Flickr8k dataset to automatically give suitable caption to an image. Check my medium story (https://medium.com/swlh/image-captioning-using-multimodal-neural-networks-ec274cfceb93) for elaborate explanations.
+This is a neural network model trained on Flickr8k and MS-COCO datasets to automatically give suitable caption to an image. Check my medium story (https://medium.com/swlh/image-captioning-using-multimodal-neural-networks-ec274cfceb93) for elaborate explanations.
 
-The Flicker8k dataset used for this project can be downloaded from the tow links below
+The Flicker8k and MS-COCO datasets used for this project can be downloaded from the links below
 
-link for images : https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+link for flicker8k images : https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
 
-link for captions: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
+link for flicker8k captions: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
+
+link for MS-COCO dataset: https://cocodataset.org/#download
 
 the zip files downloaded must be extracted and placed in the same directory where your notebooks are present (source directory)
 
